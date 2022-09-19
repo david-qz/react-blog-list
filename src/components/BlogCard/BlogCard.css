@@ -24,6 +24,12 @@
   font-weight: bold;
 }
 
+.author {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
+
 .image {
   grid-area: 'image';
 }
